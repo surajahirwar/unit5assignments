@@ -1,0 +1,37 @@
+
+.main{
+    /* border: 2px solid red; */
+    display: flex;
+    justify-content: space-around;
+    width: 500px;
+    /* background-color: rgb(255,165,0) */
+}
+img{
+    width: 50x; 
+    height: 50px;
+}
+
+.right_div{
+    /* background-color: red; */
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+}
+
+button{
+    background-color: black;
+    color: white;
+    padding: 7px;
+}
+
+p{
+    font-weight: 600;
+    font-size: 18px;
+}
+
+.yellow{
+    background-color: rgb(255,165,0s);
+}
+.white{
+    background-color: white;
+}

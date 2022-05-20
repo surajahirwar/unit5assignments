@@ -1,0 +1,9 @@
+
+.App{
+  position: absolute;
+  left: 30%;
+  top: 30%;
+}
+body{
+  background-color: teal;
+}
