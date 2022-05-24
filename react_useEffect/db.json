@@ -1,0 +1,74 @@
+{
+  "todos": [
+    {
+      "id": 1,
+      "value": "Todo 1",
+      "isCompleted": true
+    },
+    {
+      "id": 2,
+      "value": "Todo 2",
+      "isCompleted": false
+    },
+    {
+      "id": 3,
+      "value": "Todo 3",
+      "isCompleted": false
+    },
+    {
+      "id": 5,
+      "value": "Todo 4",
+      "isCompleted": false
+    },
+    {
+      "value": "Todo 5",
+      "isCompleted": false,
+      "id": 6
+    },
+    {
+      "value": "Todo 6",
+      "isCompleted": false,
+      "id": 7
+    },
+    {
+      "value": "suraj",
+      "isCompleted": false,
+      "id": 8
+    },
+    {
+      "value": "ram",
+      "isCompleted": false,
+      "id": 9
+    },
+    {
+      "value": "milk",
+      "isCompleted": false,
+      "id": 10
+    },
+    {
+      "value": "watch",
+      "isCompleted": false,
+      "id": 11
+    },
+    {
+      "value": "watch",
+      "isCompleted": false,
+      "id": 12
+    },
+    {
+      "value": "water",
+      "isCompleted": false,
+      "id": 13
+    },
+    {
+      "value": "water",
+      "isCompleted": false,
+      "id": 14
+    },
+    {
+      "value": "final todo ",
+      "isCompleted": false,
+      "id": 15
+    }
+  ]
+}
