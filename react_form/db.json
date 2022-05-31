@@ -1,0 +1,194 @@
+{
+  "data": [
+    {
+      "id": 1,
+      "name": "Martelle",
+      "age": 46,
+      "address": "406 Larry Lane",
+      "Department": "Legal",
+      "Salary": 31016,
+      "marital": false
+    },
+    {
+      "id": 2,
+      "name": "Mannie",
+      "age": 21,
+      "address": "2750 Parkside Crossing",
+      "Department": "Training",
+      "marital": true,
+      "Salary": 26332
+    },
+    {
+      "id": 3,
+      "name": "Karol",
+      "age": 50,
+      "address": "42835 Florence Avenue",
+      "Department": "Accounting",
+      "marital": false,
+      "Salary": 26332
+    },
+    {
+      "id": 4,
+      "name": "Silva",
+      "age": 34,
+      "address": "999 Hollow Ridge Avenue",
+      "Department": "Support",
+      "Salary": 48185,
+      "marital": true
+    },
+    {
+      "id": 5,
+      "name": "Thorny",
+      "age": 46,
+      "address": "34231 Mosinee Lane",
+      "Department": "Accounting",
+      "Salary": 37961,
+      "marital": false
+    },
+    {
+      "id": 6,
+      "name": "Quinn",
+      "age": 36,
+      "address": "9 Darwin Terrace",
+      "Department": "Product Management",
+      "Salary": 56100,
+      "marital": true
+    },
+    {
+      "id": 7,
+      "name": "Consalve",
+      "age": 42,
+      "address": "7537 Kennedy Parkway",
+      "Department": "Business Development",
+      "Salary": 69235,
+      "marital": true
+    },
+    {
+      "id": 8,
+      "name": "Elaine",
+      "age": 44,
+      "address": "5101 Hoard Alley",
+      "Department": "Legal",
+      "Salary": 18491,
+      "marital": false
+    },
+    {
+      "id": 9,
+      "name": "Dorie",
+      "age": 35,
+      "address": "40249 Crest Line Place",
+      "Department": "Marketing",
+      "Salary": 61099,
+      "marital": true
+    },
+    {
+      "id": 10,
+      "name": "Deana",
+      "age": 44,
+      "address": "6823 Vera Road",
+      "Department": "Accounting",
+      "Salary": 32883,
+      "marital": true
+    },
+    {
+      "id": 11,
+      "name": "Chelsea",
+      "age": 50,
+      "address": "9 Orin Hill",
+      "Department": "Marketing",
+      "Salary": 12963,
+      "marital": false
+    },
+    {
+      "id": 12,
+      "name": "Quinlan",
+      "age": 50,
+      "address": "90578 Northview Plaza",
+      "Department": "Research and Development",
+      "Salary": 65108,
+      "marital": true
+    },
+    {
+      "id": 13,
+      "name": "Cathrine",
+      "age": 26,
+      "address": "4 Hooker Lane",
+      "Department": "Accounting",
+      "Salary": 43767,
+      "marital": false
+    },
+    {
+      "id": 14,
+      "name": "Alina",
+      "age": 20,
+      "address": "6 Canary Park",
+      "Department": "Research and Development",
+      "Salary": 35623,
+      "marital": true
+    },
+    {
+      "id": 15,
+      "name": "Rogerio",
+      "age": 34,
+      "address": "999 Bunting Road",
+      "Department": "Business Development",
+      "Salary": 71906,
+      "marital": false
+    },
+    {
+      "id": 16,
+      "name": "Norbie",
+      "age": 32,
+      "address": "08 Northfield Crossing",
+      "Department": "Human Resources",
+      "Salary": 71054,
+      "marital": true
+    },
+    {
+      "id": 17,
+      "name": "Vasilis",
+      "age": 25,
+      "address": "385 Maple Wood Pass",
+      "Department": "Legal",
+      "Salary": 28530,
+      "marital": false
+    },
+    {
+      "id": 18,
+      "name": "Shelby",
+      "age": 59,
+      "address": "3 Luster Street",
+      "Department": "Human Resources",
+      "Salary": 26332,
+      "marital": false
+    },
+    {
+      "id": 19,
+      "name": "Rianon",
+      "age": 35,
+      "address": "076 Main Pass",
+      "Department": "Support",
+      "marital": false,
+      "Salary": 26332
+    },
+    {
+      "id": 20,
+      "name": "Morton",
+      "age": 53,
+      "address": "69 Fulton Terrace",
+      "Department": "Training",
+      "Salary": 59688,
+      "marital": false
+    },
+    {
+      "name": "suraj",
+      "age": "21",
+      "address": "B-277 Ph-1 Metro Vihar Holambi Kalan",
+      "Department": "surajifastdigital@gmail.com",
+      "marital": null,
+      "Salary": "100000000",
+      "state": "on",
+      "id": 21
+    }
+  ]
+}
