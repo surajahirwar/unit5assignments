@@ -6,32 +6,34 @@ export const TableItem = () => {
   const [sortby,setSortby]=useState("id")
   const [order,setOrder]=useState("asc")
   const [page,setpage]=useState(1)
+  const [ondelete, setondelete] = useState([])
 
+  console.log(page)
+  
   useEffect(()=>{
     const sortData=async()=>{ 
-      axios.get(`http://localhost:8080/data?_sort=${sortby}&_order=${order}?_page=${page}&_limit=5`).then((res)=>{
+      axios.get(`http://localhost:8080/data?_page=${page}&_limit=5&_sort=${sortby}&_order=${order}`).then((res)=>{
           setStudentslist(res.data)
           console.log(res.data)
       });
-    
     }
-    sortData()
-  },[sortby,order,page])
- 
- 
-//   const handledelete =(id) =>{
 
-//     fetch(`http://localhost:8080/students/${id}`,{
-//       method:"DELETE"
+    fetch(`http://localhost:8080/data/${ondelete}`,{
+      method:"DELETE"
 
-//     }).then((res)=>{
-//       res.json().then((data)=>{
-//        console.log("data:",data);
-//       })
-//     })
-   
+    }).then((res)=>{
+      res.json().then((data)=>{
+       console.log("data:",data);
+       sortData()
+      })
+    })
+    
   
-//   }
+    sortData()
+  },[sortby,order, page,ondelete])
+ 
+ 
+
   
   
   return (
@@ -77,6 +79,8 @@ export const TableItem = () => {
             <th>Department</th>
             <th>Marital</th>
             <th>Salary</th>
+            <th>OPration</th>
+
             
           </tr>
         </thead>
@@ -91,6 +95,8 @@ export const TableItem = () => {
             <td className="Department">{e.Department}</td>
             <td className="marital">{e.marital==true ? "merid" : "single"}</td>
             <td className="Salary">{e.Salary}</td>
+            <td>
+            <button onClick={()=> setondelete(e.id)}>Delete</button></td>
         
           </tr>})
 
@@ -98,7 +104,7 @@ export const TableItem = () => {
         </tbody>
       </table>
       <button onClick={()=>{
-          setpage(page+1)
+          setpage(page-1)
       } }  className="btn">{"<"}</button>
       <button onClick={()=>{
           setpage(page+1)

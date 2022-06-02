@@ -1,87 +1,6 @@
 {
   "data": [
     {
-      "id": 1,
-      "name": "Martelle",
-      "age": 46,
-      "address": "406 Larry Lane",
-      "Department": "Legal",
-      "Salary": 31016,
-      "marital": false
-    },
-    {
-      "id": 2,
-      "name": "Mannie",
-      "age": 21,
-      "address": "2750 Parkside Crossing",
-      "Department": "Training",
-      "marital": true,
-      "Salary": 26332
-    },
-    {
-      "id": 3,
-      "name": "Karol",
-      "age": 50,
-      "address": "42835 Florence Avenue",
-      "Department": "Accounting",
-      "marital": false,
-      "Salary": 26332
-    },
-    {
-      "id": 4,
-      "name": "Silva",
-      "age": 34,
-      "address": "999 Hollow Ridge Avenue",
-      "Department": "Support",
-      "Salary": 48185,
-      "marital": true
-    },
-    {
-      "id": 5,
-      "name": "Thorny",
-      "age": 46,
-      "address": "34231 Mosinee Lane",
-      "Department": "Accounting",
-      "Salary": 37961,
-      "marital": false
-    },
-    {
-      "id": 6,
-      "name": "Quinn",
-      "age": 36,
-      "address": "9 Darwin Terrace",
-      "Department": "Product Management",
-      "Salary": 56100,
-      "marital": true
-    },
-    {
-      "id": 7,
-      "name": "Consalve",
-      "age": 42,
-      "address": "7537 Kennedy Parkway",
-      "Department": "Business Development",
-      "Salary": 69235,
-      "marital": true
-    },
-    {
-      "id": 8,
-      "name": "Elaine",
-      "age": 44,
-      "address": "5101 Hoard Alley",
-      "Department": "Legal",
-      "Salary": 18491,
-      "marital": false
-    },
-    {
-      "id": 9,
-      "name": "Dorie",
-      "age": 35,
-      "address": "40249 Crest Line Place",
-      "Department": "Marketing",
-      "Salary": 61099,
-      "marital": true
-    },
-    {
       "id": 10,
       "name": "Deana",
       "age": 44,
@@ -170,15 +89,6 @@
       "Department": "Support",
       "marital": false,
       "Salary": 26332
-    },
-    {
-      "id": 20,
-      "name": "Morton",
-      "age": 53,
-      "address": "69 Fulton Terrace",
-      "Department": "Training",
-      "Salary": 59688,
-      "marital": false
     },
     {
       "name": "suraj",

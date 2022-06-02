@@ -45,7 +45,7 @@ export  function TodoList() {
         setTodo(d)
       });
   
-     },[val])
+     },[val]) 
 
 
   return (
