@@ -1,0 +1,19 @@
+button{
+    width: 150px;
+    color: teal;
+    background-color: white;
+    border-radius: 2px;
+    padding: 5px;
+    border:  none;
+    margin: 5px;
+}
+
+input{
+    padding: 5px;
+    width: 140px;
+    border-radius: 5px;
+    border: none;
+    background-color: aqua;
+    color: white;
+    font-weight: 900;
+}
