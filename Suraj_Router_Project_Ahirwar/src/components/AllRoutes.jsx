@@ -20,7 +20,7 @@ export default function () {
         <Route path="/men" element={<Men />} />
         <Route path="/men/:id" element={<MenPro />} />
         <Route path="/women" element={<Women />}  />
-        <Route path="/women/:id" element={<WomenPro />} />
+        {/* <Route path="/women/:id" element={<WomenPro />} /> */}
         <Route path="/contect" element={<Contect />} />
         <Route path="/*" element={<PageNotFound />} />
 
