@@ -14,7 +14,7 @@ export const AuthProvider=({children})=>{
 
     else{
         setAuth(true)
-    }
+    } 
   }
   
     return (

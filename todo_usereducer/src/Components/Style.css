@@ -1,0 +1,53 @@
+
+form{
+    display: flex ;
+
+
+
+}
+
+.main{
+    color: white;
+    font-size: 20px;
+}
+
+form button{
+    padding: 10px;
+    background:transparent;
+    background-color: rgb(131,148,118);
+    opacity: 60%;
+    border-radius: 5px;
+
+}
+
+.input_div{
+    background-color: rgb(131,148,118);
+    display: flex;
+    opacity: 60%;
+    padding: 10px;
+    width: 250px;
+    
+}
+.list_div{
+
+    margin-top: 5px;
+}
+.list_div button{
+    /* padding: 10x; */
+    background:transparent;
+    background-color: rgb(131,148,118);
+    opacity: 60%;
+    border-radius: 5px;
+    margin-left: 20px;
+    
+}
+
+.green{
+    background-color: green;
+    color: white;
+}
+
+.red{
+    background-color: red;
+    color: white;
+}
